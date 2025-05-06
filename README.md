@@ -11,7 +11,7 @@
 | افزونه جستجو با ONE (کروم) | 1.4   | منتشر شده       | [دانلود فایل ZIP](https://github.com/mcodersir/One-Studio/raw/refs/heads/main/Google-Chrome-extension/onesearch-1-4.zip)      |
 | سایت ONE                   | 2.1   | فعال و در دسترس | [one.dicode.ir](https://one.dicode.ir/)                                                                                       |
 | ONE Chat (ویندوز)          | 1.0.0 | منتشر شده       | [دانلود Installer ویندوز](https://github.com/mcodersir/One-Studio/raw/refs/heads/main/app-win/ONE%20Chat%20Setup%201.0.0.exe) |
-| OneChat Ai (Android)       | 1.1   | منتشر شده       | [دانلود APK](https://github.com/mcodersir/One-Studio/raw/refs/heads/main/app-Android/OneChatAi-v1-1.apk)                      |
+| OneChat Ai (Android)       | 1.1   | منتشر شده       | [دانلود APK](https://github.com/mcodersir/One-Studio/raw/refs/heads/main/app-Android/OneChatAi-V1-1.apk)                      |
 
 ---
 
